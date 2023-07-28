@@ -1,0 +1,15 @@
+﻿COST PRICE,PRICE PER CASE,SUPPLIER,TYPE,WINE,WINE COUNTRY,WINE ID
+$5.00,$30.00,Majestic,White,Pinot Grigio,Italy,8
+$10.00,$30.00,Redsky,Red,Grenache,France,5
+$10.00,$40.00,Redsky,Red,Chianti,Germany,7
+$10.00,$50.00,Alliance,White,Chenin Blanc,France,12
+$15.00,$20.00,Alliance,White,Lambrusco,Italy,14
+$15.00,$39.00,Majestic,Red,Merlot,France,9
+$15.00,$45.00,Majestic,Red,Rioja,Italy,11
+$20.00,$40.00,Majestic,White,Sauvignon Blanc,Italy,10
+$25.00,$75.00,Laithwaites,Red,Bordeaux,France,1
+$30.00,$78.00,Alliance,Red,Shiraz,France,13
+$40.00,$85.00,Laithwaites,Red,Malbec,Germany,4
+$50.00,$135.00,Redsky,White,Piesporter,Germany,6
+$75.00,$100.00,Alliance,White,Chardonnay,France,3
+$100.00,$150.00,Laithwaites,White,Champagne,France,2

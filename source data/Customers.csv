@@ -1,0 +1,90 @@
+﻿Area,Country,County   ,CUSTOMER ID,CUSTOMER NAME,NO. OF STORES,REGION ID
+,,,85,Bloxon Bros.,11,2000
+,,,86,Acme & Sons,4,2000
+,,,87,Jones Ltd,5,100
+,,,88,Sainsbury's,24,100
+,,,89,Smith & Co,25,100
+England,United Kingdom,Buckinghamshire,15,Littleton & Sons,16,1600
+England,United Kingdom,Buckinghamshire,48,Shanghai Ltd,5,800
+England,United Kingdom,Central Bedfordshire,4,Black Ltd,19,500
+England,United Kingdom,Central Bedfordshire,64,Brooklyn Ltd,18,1000
+England,United Kingdom,Cheshire West and Chester,35,Eilenburg Ltd,12,1100
+England,United Kingdom,Cornwall,58,Haney Ltd,5,700
+England,United Kingdom,Cornwall,62,Barstow Ltd,5,700
+England,United Kingdom,Cornwall,66,Colombes & Co,18,700
+England,United Kingdom,Cornwall,69,Kennebunkport & Co,23,1900
+England,United Kingdom,County Durham,7,Newcastle upon Tyne & Sons,18,1900
+England,United Kingdom,County Durham,56,Hervey Bay Bros,1,1700
+England,United Kingdom,Cumbria,61,Cincinnati Ltd,21,800
+England,United Kingdom,Derbyshire,9,Brown & Co,24,1400
+England,United Kingdom,Devon,76,Waterbury Ltd,10,500
+England,United Kingdom,East Sussex,53,Back River & Co,2,800
+England,United Kingdom,Essex,16,Port Hammond Bros,20,900
+England,United Kingdom,Essex,80,Germantown & Co,11,100
+England,United Kingdom,Greater London,2,Erlangen & Co,21,800
+England,United Kingdom,Greater London,8,Charlottesville & Co,13,300
+England,United Kingdom,Greater London,12,El Cajon & Sons,1,400
+England,United Kingdom,Greater London,17,Martinsville Bros,6,1700
+England,United Kingdom,Greater London,36,Castle Rock Ltd,16,1200
+England,United Kingdom,Greater London,46,Kassel & Sons,23,1800
+England,United Kingdom,Greater London,55,Nizhny Novgorod & Co,10,400
+England,United Kingdom,Greater London,74,Westminster Bros,4,600
+England,United Kingdom,Greater London,81,Concord Ltd,4,700
+England,United Kingdom,Greater Manchester,5,Snoqualmie & Sons,13,1200
+England,United Kingdom,Greater Manchester,54,Brooklyn & Co,19,1700
+England,United Kingdom,Greater Manchester,71,Canoga Park Ltd,12,400
+England,United Kingdom,Hampshire,28,Rhodes Ltd,25,1400
+England,United Kingdom,Hampshire,78,Miyagi & Co,3,1300
+England,United Kingdom,Isle of Wight,33,Port Orchard & Sons,3,1200
+England,United Kingdom,Kent,84,Runcorn Ltd,25,2000
+England,United Kingdom,Lancashire,32,Sapporo & Co,15,600
+England,United Kingdom,Leicestershire,10,Lavender Bay Ltd,10,500
+England,United Kingdom,Lincolnshire,22,Warrnambool Ltd,20,1400
+England,United Kingdom,Medway,25,Chatou & Co,8,800
+England,United Kingdom,Merseyside,6,Leeds & Co,11,1000
+England,United Kingdom,Merseyside,37,Fort Worth Ltd,19,200
+England,United Kingdom,Merseyside,40,Fremont & Sons,11,1600
+England,United Kingdom,Merseyside,63,Palo Alto Ltd,10,700
+England,United Kingdom,Northumberland,47,Busan & Co,13,600
+England,United Kingdom,Nottinghamshire,19,Townsville Ltd,22,900
+England,United Kingdom,South Gloucestershire,72,Beaverton & Co,4,300
+England,United Kingdom,South Yorkshire,31,Issaquah & Co,11,500
+England,United Kingdom,South Yorkshire,39,Milsons Point Ltd,24,1600
+England,United Kingdom,Southend-on-Sea,43,Jacksonville Ltd,1,100
+England,United Kingdom,Staffordshire,18,Melbourne Ltd,11,100
+England,United Kingdom,Staffordshire,65,Warsaw Ltd,17,1400
+England,United Kingdom,Suffolk,30,Chandler & Sons,20,1000
+England,United Kingdom,Surrey,20,Clifton Ltd,15,1100
+England,United Kingdom,Surrey,41,Bluffton Bros,12,1400
+England,United Kingdom,Surrey,75,Saint Germain en Laye & Co,24,200
+England,United Kingdom,Tyne and Wear,27,Plattsburgh Ltd,12,500
+England,United Kingdom,Tyne and Wear,29,Spokane Ltd,6,400
+England,United Kingdom,Tyne and Wear,59,Branch Ltd,23,300
+England,United Kingdom,Warwickshire,21,Burningsuit Ltd,2,1200
+England,United Kingdom,West Midlands,1,Landstuhl Ltd,21,1800
+England,United Kingdom,West Midlands,13,Sedro Woolley Ltd,23,1800
+England,United Kingdom,West Sussex,45,Kirkland Ltd,22,200
+England,United Kingdom,Worcestershire,38,Columbus & Sons,9,1200
+England,United Kingdom,Worcestershire,57,Harwich Ltd,9,1100
+England,United Kingdom,Worcestershire,73,Burlington Ltd,11,1600
+England,United Kingdom,York,67,Morristown & Co,3,1700
+Scotland,United Kingdom,Argyll and Bute,51,Lake Oswego & Co,22,700
+Scotland,United Kingdom,Argyll and Bute,82,East Orange & Co,5,1900
+Scotland,United Kingdom,Dumfries and Galloway,83,New Castle Ltd,24,1500
+Scotland,United Kingdom,East Ayrshire,34,Fort Atkinson & Co,8,1000
+Scotland,United Kingdom,East Lothian,77,Liverpool & Sons,22,1000
+Scotland,United Kingdom,Edinburgh,11,Hawthorne Bros,17,1200
+Scotland,United Kingdom,Edinburgh,79,St. Leonards Ltd,6,300
+Scotland,United Kingdom,Glasgow City,14,Parkville Ltd,11,900
+Scotland,United Kingdom,Glasgow City,52,Loveland & Co,22,400
+Scotland,United Kingdom,Glasgow City,60,Ballard & Sons,15,1800
+Scotland,United Kingdom,Highland,23,Villeneuve-d'Ascq Ltd,20,700
+Scotland,United Kingdom,Highland,24,Charleston Ltd,18,1900
+Scotland,United Kingdom,Highland,26,Old Saybrook Ltd,12,1700
+Scotland,United Kingdom,Orkney,44,Saarbrücken & Co,16,900
+Scotland,United Kingdom,Scottish Borders,3,Cape Canaveral Ltd,17,800
+Scotland,United Kingdom,Scottish Borders,68,Victoria Ltd,1,700
+Wales,United Kingdom,Gwynedd,50,Suresnes Ltd,7,800
+Wales,United Kingdom,Isle of Anglesey,42,Yokohama & Co,2,100
+Wales,United Kingdom,Newport,49,Cheney & Co,19,1500
+Wales,United Kingdom,Ynys MÃ´n,70,Runcorn & Co,3,1200
